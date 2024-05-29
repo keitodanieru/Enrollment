@@ -1,1 +1,2 @@
-to outsider, disregard this, code here is spaghetti thanks
+Hi sir, wont work without db :DD (:'D)
+
