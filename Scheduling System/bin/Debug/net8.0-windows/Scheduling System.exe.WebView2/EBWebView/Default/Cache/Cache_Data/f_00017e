@@ -1,0 +1,671 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name=”description” content="education, catholic school, Adamson, University, Manila, uaap, top school manila" />
+  <meta name="keywords" content="education, catholic school, manila, low tuition fee, best school" />
+  <meta name="author" content="Information Technology Center" />
+
+  <title>Adamson University</title>
+  <link rel="shortcut icon" href="images/favicon.ico" />
+  <link href="css/css.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Vollkorn:400,400italic' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="css/lightbox.css">
+  <script src="js/lightbox-plus-jquery.js"></script>
+
+  <!--FOR COUNT DOWN JS-->
+
+  <!--END COUNT DOWN-->
+  <link href="css/carousel/custom.css" rel="stylesheet">
+  <link href="css/carousel/owl.carousel.css" rel="stylesheet">
+  <link href="css/carousel/owl.theme.css" rel="stylesheet">
+
+  <!--<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>-->
+  <!--<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>-->
+  <!--<link type="text/css" href="http://learn.adamson.edu.ph/V4/css/redmond/jquery-ui-1.8.2.custom.css" rel="stylesheet" />	-->
+  <script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+  <script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+
+
+  <script src="js/jquery.tipTip.js" type="text/javascript" charset="utf-8"></script>
+  <link href="css/tipTip.css" rel="stylesheet" type="text/css" />
+
+  	<script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-28886454-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126120352-1"></script>
+    <!-- code for analytics@ada -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-126120352-1');
+    </script>
+
+</head>
+
+<body>
+    <div id="primary">
+    
+
+
+<div id="topmenu">
+	<!-- TOP LINKS FOR INSIDE -->
+
+<style type="text/css">
+    #socialtop td {
+        padding-right: 13px;
+        font-size: 19px;
+    }
+
+    #socialtop a {
+        color: #fff;
+        opacity: 0.8;
+    }
+
+    #socialtop span {
+        margin-right: 15px;
+        font-size: 13px;
+    }
+
+    .gsc-control-cse-en {
+        background-color: none !important;
+        float: none;
+    }
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<div id="topmenu">
+    <div id="span3" style="border-bottom: #002754 solid thin">
+        <div id="span5">
+            <table>
+                <tr>
+                    <td valign="top" style="width: 270px; padding-top: 8px; padding-left: 10px;">
+                        <table id="socialtop">
+                            <tr>
+                                <td><a href="./"><img src="images/adulogo.jpg" height="30" style="margin-right: 10px; "></a></td>
+                                <!-- <td><a href="https://www.facebook.com/AdamsonUniversity.Official/" target="_blank"><i class="fa fa-facebook"></i></a></td>
+                                <td><a href="https://www.youtube.com/user/TheAdamsonUniversity" target="_blank"><i class="fa fa-youtube"></i></a></td>
+                                <td><a href="https://twitter.com/adamson_u" target="_blank"><i class="fa fa-twitter"></i></a></td> -->
+                                <td><a href=".?page=search"><i class="fa fa-search"></i><span style="font-size: 12px; margin-left: 8px; text-decoration: underline; ">Search</span></a> </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table class="menu-minor2">
+                            <tr>
+                                <td><a href="./?page=data-processing-statement" style="font-weight: 600;">Data Privacy Notice</a></td>
+                                <td>
+                                    <a href="https://www.adamson.edu.ph/cpdd" target="_blank" style="font-size: 11px; ">Continuing Professional <br>Development Department</a>
+                                </td>
+                                <td><a href="./?page=jobs" style="font-weight: 400;">Jobs</a></td>
+                                <td><a href="./?page=admission" style="font-weight: 400;">Admission</a></td>
+                                <td><a href="https://live.adamson.edu.ph/V4/" target="_blank" style="font-weight: 400;">AdU Live</a></td>
+                                <td><a href="./?page=alumni-tracer-data-privacy" style="font-weight: 400;">Alumni Tracer</a></td>
+                                <td><span href="" onclick="myFunction()" class="dropbtn"  style="font-weight: 400; font-size: 12px;">Alumni</span>
+                                  <div id="myDropdown" class="dropdown-content">
+                                    <a href="./?page=auaai">Adamson University Alumni Association Inc.</a>
+                                    <a href="./?page=oia-vision-mission">Office for Institutional Advancement</a>
+                                  </div>
+                                </td>
+                                <td><a href="https://learn.adamson.edu.ph" target="_blank" style="font-weight: 400;">E-Learning</a></td>
+                            </tr>
+                        </table>
+                        <!-- <div id="menu-minor">
+                              <ul>
+                                <li><a href="https://www.adamson.edu.ph/cpdd" target="_blank" style="font-size: 11px; ">Continuing Professional <br>Development Department</a></li>
+                                <li><a href="./?page=admission" target="_blank" style="font-weight: 400;">Admission</a></li>
+                                <li><a href="https://live.adamson.edu.ph/V4/" target="_blank" style="font-weight: 400;">AdU Live</a></li>
+                                <li><a href="./?page=alumni-tracer">Alumni Tracer</a></li>
+                                <li><a href="https://learn.adamson.edu.ph" target="_blank" style="font-weight: 400;">E-Learning</a></li>
+                             </ul> 
+                         </div> -->
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+
+</div>
+    <div id="span4" style="border-top: #009ef8 solid thin"> 
+    <div id="span6">
+        <table>
+            <tr>
+                <!-- <td valign="top" style="width: 1280px;"> -->
+                  <td valign="top" style="width: 1024px;">
+                    <div id="menu-major">
+                        <ul>
+                            <li><a href="./?page=academics">Academics</a></li>
+                            <li><a href="./?page=news">News</a></li>
+                            <li><a href="./?page=about">About AdU</a></li>
+                            <li><a href="./?page=students">Student Life</a></li>
+                            <li><a href="./?page=library">Library</a></li>
+                            <!-- <li><span href="" onclick="myFunction()" class="dropbtn">Alumni</span>
+                              <div id="myDropdown" class="dropdown-content">
+                                <a href="./?page=auaai">Adamson University Alumni Association Inc.</a>
+                                <a href="./?page=oia-vision-mission">Office for Institutional Advancement</a>
+                              </div>
+                            </li> -->
+                            <li><a href="./?page=sports">Sports</a></li>
+                            <li><a href="./?page=registrar">Registrar</a></li>
+                            <li><a href="./?page=finance">Finance</a></li>
+                            <li><a href="./?page=offices&oid=2">Services</a></li>
+                            <li ><a href="./?page=klasmeyt-culture" style="font-size: 12px; font-weight: bold; text-decoration: underline; ">Klasmeyt Culture</a></li>
+                        </ul> 
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>        
+</div>
+
+<style>
+.dropbtn {
+
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #0080C9;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+  z-index: 1;
+  border-radius: 5px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+</style>
+
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script></div>
+
+<div id="pagebody">
+	<div style="height: 20px;">
+</div> 
+<!--
+<div id="breadcrumbs">
+    <table>
+        <tr>
+            <td><img src="images/icons/homebreadcrmps.jpg" /></td>
+            
+            <td><a href="./?page=""">Home</a></td>
+            <td><img src="images/icons/next-brdcrmps.jpg" /></td>
+            
+        </tr>
+    </table>
+</div>-->	<table width="100%">
+        <tr>
+            <td valign="top" width="70%" class="col-left">
+                <script src="js/tab-regs/jquery.hashchange.min.js" type="text/javascript"></script>
+<script src="js/tab-regs/jquery.easytabs.min.js" type="text/javascript"></script>
+<script src="js/accordion/jquery-ui.js"></script>
+ <script src="js/accordionnew/jquery-ui.js"></script>
+ 
+ <style type="text/css">
+    .leftpanel {
+        height: 300px;
+        /*width:647px;*/
+        width:879px;
+    }
+    #accordion,#accordion2,#accordion3,#accordion4,#accordion5 {
+        display:inherit;
+    }
+    
+    #accordion > h3, #accordion2 > h3,#accordion3 > h3,#accordion4 > h3 {
+        margin-top: 3px;
+        background-color:#0094da;
+        padding: 20px;
+        cursor:pointer;
+        color:#FFF;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 10px;
+    }
+    
+    
+    #details {
+        margin-top: 10px;
+        margin-left: 10px;
+        font-size: 16px;
+        list-style-type: disc;
+    }
+    
+    #graduation ul li,#graduation ol li {
+        margin-bottom:5px;
+    }
+    
+    .nobullet {
+        list-style: none;
+    }
+    .disc {
+        list-style-type: disc;
+        margin-left: 20px;
+    }
+    .paymentheads {
+        padding: 1px 1px 1px 10px;
+        width: 50%;
+        font-size: 20px;
+        padding-left: 30px;
+        margin-left: 20px;
+        color: #fff;
+
+    }
+
+    .tg  {border-collapse:collapse;border-spacing:0; margin: 5px 0px;}
+    .tg tr{font-family:Arial, sans-serif;font-size:12px;padding:5px 10px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+    .tg td{font-family:Arial, sans-serif;font-size:12px;font-weight:normal;padding:5px 10px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+</style>
+
+<div class="wrapper-cols">  
+                <!-- <img src="images/admission/banks.jpg"/> -->
+                <h2>Payment Guide</h2>
+                <hr />
+                
+                <p>Please be reminded that Adamson University does not request payments to be coursed through any personal bank account. The University conducts financial transactions ONLY through the following means:</p>
+                <ul class="disc">
+                    <li>Onsite Payment at the AdU Cashier windows ONLY</li>
+                    <li>Over-the-Counter at AdU bank partners</li>
+                    <li>Online payment via official AdU accounts and affiliated banking platforms</li>
+
+                </ul>
+                <h2>Accepted Modes for Tuition and Other Fees</h2>   
+                <p style="font-style: italic;">*Please be advised that other miscellaneous fees are recommended to be paid onsite at the AdU Cashier.</p> 
+
+                <div id="accordion">
+                    <h3>1. CASH</h3>
+                    <div id="details">
+                        
+                        <p>Steps:</p>
+                        <ol>
+                            <li>Fill out payment details.</li>
+                            <li>Get a queue number.</li>
+                            <li>Wait and pay at the Cashier Window. <br>
+                                <span style="font-style: italic;">(Payments onsite at AdU will be reflected in real-time after payment.)</span></li>
+                        </ol>
+                    </div>
+                </div>        
+                
+                <div id="accordion2">
+                    <h3>2. COMPANY / PERSONAL / MANAGER'S CHECK</h3>
+                    <div id="details">
+                        <p>Steps:</p>
+                        <ol>
+                            <li>Payee should be: <span style="font-weight: bold;">“Adamson University”</span></li>
+                            <li>The following information shall be written correctly and legibly at the back of the check<br>
+                                <ul class="disc">
+                                    <li>Student’s Full Name</li>
+                                    <li>Student’s ID Number upon enrollment</li>
+                                    <li>Contact Number</li>
+                                </ul>
+                            </li>
+                            <li>Please take note of the following:<br>
+                                <ul class="disc">
+                                    <li>Post-dated and stale checks are not accepted</li>
+                                    <li>Checks must be clean with no erasures, alterations, or missing information on the face, regardless of any signature or initials that appear to indicate authorization of the alteration or erasure  (PCHC Circular No. 15-460.A)</li>
+                                    <li>Official Receipt  issued for dishonored and returned checks will be cancelled automatically by the Students Accounts Section. <span style="font-weight: bold;">Corresponding bank charges will be added to the account of the student. ₱500.00 for check payment drawn with insufficient fund (DAIF) ₱1,000.00 for check payment with closed account</span></li>
+                                    <li>Replacement of dishonored/returned checks shall be in cash or Manager’s check which shall be paid at <span style="font-weight: bold;">AdU</span> Cashier only.</li>
+                                </ul>
+
+                            </li>
+                        </ol>
+                    </div>    
+                </div>
+                
+
+                <div id="accordion3">
+                    <h3>3. CREDIT CARD/DEBIT CARD PAYMENT </h3>
+                    <div id="details">
+                        <h4>A. Onsite Payment at AdU Cashier</h4>
+                        <p>Steps:</p>
+                        <ol>
+                            <li>Straight payment with any Mastercard, Visa, JCB, AMEX card is accepted.</li>
+                            <li>Double swiping of credit card is not allowed.</li>
+                            <li>The cardholder  must present a valid identification card for justification purposes.</li>
+                            <li>Payment using ATM via debit to savings account is accepted.</li>
+                        </ol>
+                        <h4>B. Via the Global Pay Email Link</h4>
+                        <p>Steps:</p>
+                        <ol>
+                            <li>The student using his/her official <span style="font-weight: bold;">AdU email address </span> sends an email to <span style="font-weight: bold;">cashier@adamson.edu.ph </span> indicating the following details:<br>
+                                <ul class="disc">
+                                    <li>Student Name </li>
+                                    <li>Student number</li>
+                                    <li>Amount to pay thru credit card </li>
+                                    <li>Payment type ( i.e. down payment, prelims, midterm, finals)</li>
+                                </ul>
+                            </li>
+                            <li>The cashier sends the request to Global Pay.</li>
+                            <li>The student replies to the link, reviews correctness of details and confirms to proceed with the payment</li>
+                            <li>Global Pay will  processes the request.</li>
+                            <li>Student receives email advice for successful payment.</li>
+                        </ol>
+                        <p style="font-style: italic; font-weight: bold;">Online Credit Card Payments are validated at the Cash Management Office  on the next banking day.</p>
+                    </div>    
+                </div>
+               
+                <div id="accordion4">
+                    <h3>4. E-WALLET FACILITY </h3>
+                    <div id="details">
+                        <div class="paymentheads" style="background-color: blue;"> 
+                            <h4>G-Cash</h4>
+                        </div>
+                        <div style="margin-left: 20px;">
+                            <h4>I. Bills Payment</h4>
+                            <p>Steps:</p>
+                            <ol>
+                                <li>On the GCash Dashboard, tap the “Bills” feature.</li>
+                                <li>Under Categories. Choose “Schools” and select “Adamson University”</li>
+                                <li>Fill out the required details, as follows:
+                                    <ul>
+                                        <li>Account Number: Student’s ID number</li>
+                                        <li>Course: Simplify the Student’s Course to its initials (i.e BSCE, SHS, JHS, etc.)</li>
+                                        <li>Total Assessment: The amount that you need to pay <span style="font-weight: bold;">(don’t forget to add ₱10.00 transaction fee)</span> </li>
+                                        <li>Click “Confirm” button.</li>
+                                        <li>Wait for email or SMS confirmation of your transaction.</li>
+                                    </ul>
+                                </li>
+                            </ol>
+                            <p>GCash bills payment is for validation on the next business day.</p>
+                            <p>Please take note that during peak period, validation may take 1-2 business days.</p>
+                            <h4>II. Bank Transfer</h4>
+                            <p>Steps:</p>
+                            <ol>
+                                <li>On the GCash dashboard, tap the “Transfer” feature</li>
+                                <li>Under the Select Partner Banks, choose from our accredited banks below and fill out the corresponding details needed</li>
+                                <li>Click the “Send Money” button</li>
+                                <li>Wait for the email or the in-app confirmation of your transaction via “Inbox” feature in GCash</li>
+                                <li>Kindly notify us of your successful fund transfer transaction by sending it through email (cashier@adamson.edu.ph) the screenshot of SMS confirmation for validation purposes</li>
+                            </ol>    
+                        </div>
+                        <div class="paymentheads" style="background-color: green;">   
+                            <h4>MAYA</h4> 
+                        </div>
+                        <div style="margin-left: 20px;">
+                            <h4>I. Bills Payment</h4>
+                            <p>Steps:</p>
+                            <ol>
+                                <li>On the Maya Dashboard, tap the “Bills” feature.</li>
+                                <li>Under Categories. Choose “Schools” and select “Adamson University”</li>
+                                <li>Fill out the required details, as follows:
+                                    <ul>
+                                        <li>Account Number: Student’s ID number</li>
+                                        <li>Course: Simplify the Student’s Course to its initials (i.e BSCE, SHS, JHS, etc.)</li>
+                                        <li>Total Assessment: The amount that you need to pay <span style="font-weight: bold;">(don’t forget to add ₱10.00 transaction fee)</span> </li>
+                                        <li>Click “Confirm” button.</li>
+                                        <li>Wait for email or SMS confirmation of your transaction.</li>
+                                    </ul>
+                                </li>
+                            </ol>
+                            <p><span style="font-weight: bold;">MAYA bills payment is for validation on the next business day.</span></p>
+                            <p><span style="font-weight: bold;">Please take note that during peak period, validation may take 1-2 business days.</span></p>
+                            <h4>II. QR Code Onsite</h4>
+                            <p>Steps:</p>
+                            <ol>
+                                <li>Fill out payment details</li>
+                                <li>Get a queue number</li>
+                                <li>Scan the QR Code at the Cashier Window and enter the amount that you will pay <span style="font-weight: bold;">(additional 1.5% for transaction fee) </span> and tap “Pay”.</li>
+                            </ol>  
+                            <p style="font-weight: bold">QR Code Payments onsite at AdU will be reflected in real-time after payment</p>  
+                            <h4>III. ePayment through E-Learning Account</h4>
+                            <p>Steps:</p>
+                            <ol>
+                                <li>Go to live.adamson.edu.ph, log in your account.</li>
+                                <li>Select Finance Portal on the Menu grid.</li>
+                                <li>Select ePayment. Enter the tuition fee amount and click the “next” button. Kindly check if the details are correct and click the “confirm” button to proceed.</li>
+                                <li>The page will be redirected to Maya Payment Portal, input necessary payment details and click “Complete Order” to finish the transaction. <span style="font-weight: bold;">(Payments are subjected to 2.5% service charge) </span>.</li>
+                            </ol>  
+                            <p><span style="font-weight: bold;">Payments made through ePayment made through an E-Learning Account will be reflected in real-time after payment</span></p>  
+                        </div> 
+                    </div>
+                </div>        
+                              
+                 
+                <center>
+                    <img src="images/admission/payment/Picture1.png" width="600">
+                    <img src="images/admission/payment/Picture2.png" width="600">
+                    <img src="images/admission/payment/Picture3.png" width="600">
+                    <img src="images/admission/payment/Picture4.png" width="600">
+                    <img src="images/admission/payment/Picture5.png" width="600">
+                    <img src="images/admission/payment/Picture6.png" width="600">
+                    <img src="images/admission/payment/Picture7.png" width="600">
+                    <img src="images/admission/payment/Picture8.png" width="600">
+                    <img src="images/admission/payment/Picture9.png" width="600">
+                    <img src="images/admission/payment/Picture10.png" width="600">
+                    <img src="images/admission/payment/Picture11.png" width="600">
+                    <img src="images/admission/payment/Picture12.png" width="600">
+                </center>  
+                
+         </div>    
+</div>
+
+
+
+<script type="text/javascript">
+    $(document).ready( function() {
+    $('#tab-container').easytabs();
+    
+    
+    $( "#accordion, #accordion2, #accordion3, #accordion4" ).accordion({
+      heightStyle: "content"
+      , collapsible: true, active: false 
+    });
+    });
+
+</script>
+            </td> 
+            <td valign="top" width="30%" class="col-right">
+				<div class="sidecontainer">
+    <h2>Links</h2>
+    <hr color="#CCCCCC" size="1" />
+    <ul>
+        <li><a href="./?page=accepted-modes-authorized-tuitionfee">Accepted Modes and Authorized Venues for Tuition Fee Payments</a></li>
+        <li><a href="./?page=tuition-fee-discounts">Tuition Fee Discounts</a></li>
+        <li><a href="https://www.adamson.edu.ph/ustore/?page=" target="_blank">University Store (UStore)</a></li>
+        <li><a href="./?page=refund">Online Refund Application</a></li>
+        <!-- <li><a href="">Tuition Fee Calculator</a></li>
+        <li><a href="">Tuition Fee Payment Procedures</a></li>
+        <li><a href="">Study Now Pay Later Program </a></li> -->
+    </ul>
+</div>
+<div class="sidecontainer">
+    <h2>School Fees</h2>
+    <hr color="#CCCCCC" size="1" />
+    <ul>
+    	<li><a href="./?page=school-fee">Tentative Tuition and Other School Fees for Incoming Freshmen, First Semester School Year 2024 - 2025</a></li>
+    	<li><a href="./?page=schoolfee-gradschool">Graduate School</a></li>
+        <li><a href="./?page=doctor-of-pharmacy">Doctor of Pharmacy</a></li>
+    	<li><a href="./?page=school-fee-college">College School Fees for Second Semester SY 2023-2024 (all year levels) </a></li>
+    	<li><a href="./?page=law-fee">Juris Doctor (College of Law)</a></li>
+        <li><a href="./?page=sh-school-fee">Senior High School</a></li>
+        <li><a href="./?page=bed-school-fee">Nursery, Kinder, Elementary and Junior High School</a></li>
+     </ul>
+</div>  
+
+<div class="sidecontainer">
+    <h2>Enrollment Procedure and Requirements</h2>
+    <hr color="#CCCCCC" size="1" />
+    <ul>
+    	<li><a href="./?page=basic-education">Basic Education</a></li>
+    	<li><a href="./?page=seniorhs">Senior High School</a></li>
+        <li><a href="./?page=freshmen">Freshmen</a></li>
+        <li><a href="./?page=transferees">Transferees</a></li>
+        <li><a href="./?page=foreign">International Students</a></li>
+        <li><a href="./?page=cross-enrollees">Cross-Enrollees</a></li>
+        <li><a href="./?page=graduate-studies-juris-doctor">Graduate School & Juris Doctor</a></li>
+        <!-- <li><a href="./?page=juris-doctor-requirements-procedure">Juris Doctor (College of Law)</a></li> -->
+        <li><a href="./?page=doctor-of-pharmacy-procedures">Doctor of Pharmacy</a></li>
+    </ul>
+</div>
+
+			</td>
+        </tr>
+    </table>   
+</div>    
+    
+    <div id="footer-wrapper">
+	<div id="footer-links">
+    	<table width="100%" id="footer-span">
+        	<tr>
+            	<td width="30%" id="ftradu">
+                	<a href="./?page="""><img src="images/home/adufooter.jpg" /></a>
+                </td>
+               
+                <td width="50%" valign="top" id="ftrfndus">
+                	<h4>Contact Us</h4>
+                    <table id="ftrfndussub">
+                    	<tr>
+                        	<td width="90px" valign="middle"><img src="images/icons/navi.jpg" /></td>
+                            <td valign="top"><a href="https://www.google.com/maps/place/Adamson+University/@14.5869043,120.9856142,18.5z/data=!4m2!3m1!1s0x0000000000000000:0x52dea1e12d0145a0?hl=en" style="color:#FFF;" target="_blank">Adamson University<br />900 San Marcelino Street, Ermita<br>
+                        	1000 Manila, Philippines</a>
+                            
+                            
+                            </td>
+                        </tr>
+                        <tr style="height: 8px;">
+                        	<td></td>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                        	<td><img src="images/icons/telno.jpg" /></td>
+                            <td>8524-20-11<br />
+                            	<a href="./?page=contact-us">View more</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"><img src="images/icons/email.jpg" /></td>
+                            <td>webmaster@adamson.edu.ph</td>
+
+                        </tr>
+                        <tr>
+                            <td valign="top"><img src="images/icons/email.jpg" /></td>
+                            <td><a href="./?page=acad-email">Academic Administrators Email Address</a></td>
+                        </tr>
+
+                    </table>
+                </td>
+                <td width="20%" valign="top" id="ftrsocial">
+                	<h4>Stay Connected</h4>
+                    <ul style="margin-bottom: 55px;">
+                    	<li><a href="https://www.facebook.com/AdamsonUniversity.Official/" target="_blank"><img src="images/icons/fb.jpg" /></a></li>
+                    	<li><a href="https://www.twitter.com/adamson_u" target="_blank"><img src="images/icons/tw.jpg" /></a></li>
+                        <li><a href="http://www.youtube.com/user/TheAdamsonUniversity" target="_blank"><img src="images/icons/yt.jpg" /></a></li>
+                       <!-- <li><img src="images/icons/plus.jpg" /></li>-->
+                    </ul>
+                    <h4>Accreditations</h4>
+                    <table id="accreditationsicn">
+                        <tr>
+                            <td><a href="http://www.ched.gov.ph/" target="_blank"><img src="images/icons/ched-logo.png" height="25" class="tiptip" title="CHED" /></a></td>
+                            <td><a href="http://paascu.org.ph/" target="_blank"><img src="images/icons/paascu-logo.png" height="25"  class="tiptip" title="PAASCU"  /></a></td>
+                            <td><a href="https://sites.google.com/ceu.edu.ph/pacucoa/home" target="_blank"><img src="images/icons/pacucoa-logo.png" height="25" class="tiptip" title="PACUCOA"  /></a></td>
+                            <td><a href="./?page=view-news&newsid=1455" target="_blank"><img src="images/icons/iso9001.png" height="25" class="tiptip" title="ISO 9001"  /></a></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="copyright">
+    	<ul id="copyright-span">
+        	<li>Copyright 2019 &nbsp| &nbspAll Rights Reserved &nbsp| &nbspPowered by Information Technology Center &nbsp| &nbsp <a href="https://www.adamson.edu.ph/?page=view-news&newsid=697">Trademark Notice</a></li>
+            <li style=" margin-left: 32%;"><a href="./?page=sitemap">Site Map</a></li>
+        </ul>
+    	
+    </div>
+</div>        <!-- div id="up-button" title="Back to Top"></div> -->
+  </div>
+</body>
+
+</html>
+
+<script>
+  $(document).ready(function() {
+    $(window).scroll(function() {
+      // get the height of #wrap
+      var h = $('#wrap').height();
+      var y = $(window).scrollTop();
+      if (y > (h * .40)) {
+        // if we are show keyboardTips
+        $("#up-button").fadeIn("fast");
+      } else {
+        $('#up-button').fadeOut('fast');
+      }
+    });
+
+    $('#up-button').click(function() {
+      $('body,html').animate({
+        scrollTop: 0
+      }, 800);
+    });
+  })
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".up-tip").tipTip({
+      delay: 100,
+      defaultPosition: "right"
+    });
+  });
+</script>
+
+
