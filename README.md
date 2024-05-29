@@ -1,2 +1,3 @@
-Hi sir, wont work without db :DD (:'D)
+Hi sir je, wont work without database :D (:'D)
+
 
